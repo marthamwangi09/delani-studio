@@ -1,0 +1,161 @@
+@import url("https://fonts.googleapis.com/css?family=Comfortaa|Poiret+One|Raleway|Ubuntu+Mono&display=swap");
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container-fluid {
+  margin: 0;
+  padding: 0;
+}
+.overlay {
+  height: 668px;
+  margin-bottom: 20px;
+}
+.overlay > img,
+.home {
+  position: relative;
+
+  top: 40%;
+}
+.home {
+  margin-top: 5px;
+  /* font-family: sans-serif; */
+}
+.home-small {
+  font-family: "Ubuntu Mono", monospace;
+}
+.click {
+  margin-top: 290px;
+  margin-bottom: 40px;
+}
+.overlay > img,
+.welcome {
+  margin-bottom: 20px;
+}
+.jumbotron {
+  background-image: url("../assets/backgrounds/h_img.jpg");
+  background-position: center center;
+  background-size: cover;
+  height: 668px;
+}
+
+.about {
+  height: 250px;
+}
+
+.about h2 {
+  margin-top: 5px;
+}
+.services {
+  background-image: url("../assets/backgrounds/s_image.jpg");
+  height: 280px;
+  margin-top: 80px;
+}
+
+.services h2 {
+  position: relative;
+  top: 30px;
+  margin-bottom: 20px;
+}
+
+.services-overlay {
+  background-color: rgba(0, 0, 0, 0.3);
+  height: 280px;
+}
+
+.what-we-do h2 {
+  margin-top: 30px;
+}
+figcaption {
+  margin-top: 20px;
+}
+.portfolio {
+  /*height: 650px;*/
+  padding-bottom: 50px;
+}
+.contacts {
+  background-image: url("../assets/backgrounds/c_image.jpg")
+  background-size: cover;
+  opacity: 0.82;
+}
+.contacts h1 {
+  position: relative;
+  top: 30px;
+}
+.text {
+  margin-bottom: 20px;
+}
+.contact-overlay {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.form-control {
+  background-color: #66000000;
+  color: white;
+}
+.input {
+  margin-top: 30px;
+}
+.title {
+  font-family: "Comfortaa", cursive;
+}
+.description {
+  font-family: "Raleway", sans-serif;
+  margin: 10px;
+}
+.name {
+  margin-right: 5px;
+}
+.email {
+  margin-right: 5px;
+}
+.social {
+  justify-content: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.white {
+  height: 300px;
+  width: 366px;
+  background-color: rgba(255, 255, 255, 0.5);
+  display: none;
+}
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+.project-img {
+  visibility: hidden;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+  font-size: 40px;
+}
+#portfolio img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.portfolio .project-img {
+  text-align: center;
+  padding-top: 40px;
+  font-family: "Gabriela", serif;
+}
+#portfolio {
+  align-items: center;
+}
+@media (max-width: 750px) {
+  font-size: 3rem;
+}
