@@ -83,7 +83,7 @@ figcaption {
   padding-bottom: 50px;
 }
 .contacts {
-  background-image: url("../assets/backgrounds/c_image.jpg")
+  background-image: url("../assets/backgrounds/c_image.jpg");
   background-size: cover;
   opacity: 0.82;
 }
