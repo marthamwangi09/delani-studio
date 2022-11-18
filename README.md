@@ -15,7 +15,7 @@ Technologies used
 html5 css3 Bootstrap 4 jQuery
 
 Usage
-TODO: Write usage instructions
+TO DO: Write usage instructions
 
 Contributing
 Fork it!
