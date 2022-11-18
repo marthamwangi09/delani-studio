@@ -16,7 +16,8 @@ No set up instructions at the moment
 Technologies used
 
 html5 
-css3 Bootstrap 4 jQuery
+css3
+ Bootstrap 4 jQuery
 
 Usage
 TO DO: Write usage instructions
