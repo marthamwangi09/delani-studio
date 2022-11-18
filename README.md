@@ -23,6 +23,7 @@ Commit your changes: git commit -am 'Add some feature'
 Push to the branch: git push origin my-new-feature
 Submit a pull request :D
 History
+
 TODO: Write history
 
 Credits
@@ -33,7 +34,7 @@ mail chimp API is not functional at the moment
 
 
 
-Contact
+CONTACT
 If you have any question or contributions, please email me at [marthamwangi09@gmail.com]
 
 License & copyright
