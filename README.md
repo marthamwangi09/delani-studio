@@ -6,19 +6,24 @@ Author
 Name :martha mwangi link https://github.com/marthamwangi09
 
 Installation
+
 clone project from: https://github.com/marthamwangi09/delani-studio
 
 Setup Instruction
+
 No set up instructions at the moment
 
 Technologies used
+
 html5 css3 Bootstrap 4 jQuery
 
 Usage
 TO DO: Write usage instructions
 
 Contributing
+
 Fork it!
+
 Create your feature branch: git checkout -b my-new-feature
 Commit your changes: git commit -am 'Add some feature'
 Push to the branch: git push origin my-new-feature
@@ -34,7 +39,9 @@ Known bugs
 mail chimp API is not functional at the moment
 
 CONTACT
+
 If you have any question or contributions, please email me at [marthamwangi09@gmail.com]
 
 License & copyright
+
 MIT © martha mwangi
