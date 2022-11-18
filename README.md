@@ -21,6 +21,7 @@ css3
  4 jQuery
 
 Usage
+
 TO DO: Write usage instructions
 
 Contributing
