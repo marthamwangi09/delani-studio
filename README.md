@@ -5,7 +5,7 @@ Author
 Name :martha mwangi link https://github.com/marthamwangi09
 
 Installation
-clone project from: https://github.com/marthamwangi09
+clone project from: README.md
 
 Setup Instruction
 No set up instructions at the moment
