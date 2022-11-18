@@ -24,15 +24,13 @@ Push to the branch: git push origin my-new-feature
 Submit a pull request :D
 History
 
-TODO: Write history
+TO DO: Write history
 
 Credits
-TODO: Write credits
+TO DO: Write credits
 
 Known bugs
 mail chimp API is not functional at the moment
-
-
 
 CONTACT
 If you have any question or contributions, please email me at [marthamwangi09@gmail.com]
