@@ -2,7 +2,7 @@ ${1:DELANI STUDIO}
 This project is a static website for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios.
 
 Author
-Name :Lilian Kamau Github link https://github.com/marthamwangi09
+Name :martha mwangi link https://github.com/marthamwangi09
 
 Installation
 clone project from: https://github.com/marthamwangi09
